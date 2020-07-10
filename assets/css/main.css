@@ -2169,6 +2169,10 @@ input, select, textarea {
 		ul li {
 			padding-left: 0.5em;
 		}
+		footer ul li {
+			padding-left: 0.5em;
+			color: #FFFFFF;
+		}
 
 		ul.alt {
 			list-style: none;
